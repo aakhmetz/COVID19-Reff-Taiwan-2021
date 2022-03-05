@@ -1,4 +1,4 @@
-# Estimation of the effective reproduction number during the pandemic wave in Taiwan, May - July 2021
+# Transmission dynamics and effectiveness of control measures during a surge of COVID-19 cases in Taiwan, April-August 2021
 
 <font color="red">***Work in progress***</font>
 
