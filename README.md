@@ -3,11 +3,6 @@
 <font color="red">***Work in progress***</font>
 
 
-
-**Main notebooks**
-
-* ...
-
 ---------
 **Thank you for your interest to our work!** 
 
